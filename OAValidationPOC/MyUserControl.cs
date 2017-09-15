@@ -108,10 +108,10 @@ namespace OAValidationPOC
                 var errorsToShow = result.ValidationErrors.Take(7).ToList();
 
                 ///////////////////////////////////////////////////////////////////////////////
-                int errorButtonLeft = 15;
-                int errorButtonsTop = 70;
-                int errorButtonWidth = 270;
-                int errorButtonHeight = 60;
+                int errorButtonLeft = 10;
+                int errorButtonsTop = 60;
+                int errorButtonWidth = 170;
+                int errorButtonHeight = 50;
                 int distanceBetweenButtons = 15;
                 ///////////////////////////////////////////////////////////////////////////////
 
